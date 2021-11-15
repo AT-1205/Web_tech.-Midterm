@@ -1,0 +1,56 @@
+.body {
+	
+
+}
+
+@media only screen and (max-width: 768px) {
+	
+    img {
+    	margin: auto;
+    	width: 100%;
+    }
+    [class*="col-"] {
+    	width: 100%;
+    }
+    .about {
+    	font-style: initial;
+    	background-color: #b39576;
+    }
+
+}
+.pics {
+	width: 10%;
+	align-content: center;
+}
+
+.about {
+	font-style: initial;
+	background-color: #b39576;
+	background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+}
+
+
+.mainPic {
+	width: 30%;
+	margin-left: 50%;
+
+}
+
+.interests {
+	text-align: center;
+	background-color: #b39576;
+	margin: 20px;
+	color: white;
+	font-family: serif;
+}
+
+.heading {
+	text-align: center;
+	font-family: sans-serif;
+	background-color: #80aaff;
+}
+
+.pos {
+	position: absolute;
+}
+
